@@ -1,0 +1,39 @@
+{
+    "categoria": [
+        { "id": 1, "desc": "Brasileirão" },
+        { "id": 2, "desc": "Estaduais" },
+        { "id": 3, "desc": "Copa do Brasil" },
+        { "id": 4, "desc": "Copa do Mundo" },
+        { "id": 5, "desc": "Eleições" }
+    ],
+    "partida":[
+        { 
+        "id":1, 
+        "competicao": { "nome": "Copa do Mundo", "logo":"/images/copa22.jpeg" },
+        "ladoA":"Brasil",
+        "ladoB":"Servia",
+        "dataEvento": "2022-10-30T14:30:00"        
+        },
+        { 
+        "id":2, 
+        "competicao": { "nome": "Copa do Mundo", "logo":"/images/copa22.jpeg" },
+        "ladoA":"Brasil",
+        "ladoB":"Camarões",
+        "dataEvento": "2022-10-30T14:30:00"        
+        },
+        { 
+        "id":3, 
+        "competicao": { "nome": "Copa do Mundo", "logo":"/images/copa22.jpeg" },
+        "ladoA":"Brasil",
+        "ladoB":"Suiça",
+        "dataEvento": "2022-10-30T14:30:00"        
+        },
+        { 
+        "id":4, 
+        "competicao": { "nome": "Copa do Brasil", "logo":"/images/copabrasil.jpg" },
+        "ladoA":"Flamengo",
+        "ladoB":"Corinthians",
+        "dataEvento": "2022-10-30T14:30:00"        
+        }
+    ]
+}
